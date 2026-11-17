@@ -1,0 +1,6 @@
+{
+  "name": "China Stock Intelligence V3.0",
+  "description": "A股AI智能研究与投资决策系统 — 集成真实A股行情与财务数据采集、动态交易规则引擎、量化指标、多角色AI研究与风险控制回测工作台。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
